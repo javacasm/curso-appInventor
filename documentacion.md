@@ -1,6 +1,6 @@
 # Desarrollo de aplicaciones con App Inventor
 
-##Desarrolla aplicaciones para Android sin saber programar
+## Desarrolla aplicaciones para Android sin saber programar
 
 ## Introdución
 
@@ -21,7 +21,7 @@ Dada la naturaleza del entorno de desarrollo eminentemente visual, no son necesa
 
 ## Estructura del curso
 
-El curso se compone de tres módulos:
+El curso se compone de cinco módulos:
 
 ### Módulo 1: Fundamentos 
 Nos familiarizaremos con la plataforma Android y la herramienta App Inventor. Instalaramos todo el entorno necesario.
@@ -32,7 +32,7 @@ Estudiaremos los fundamentos de la programación de aplicaciones y veremos los c
 ### Módulo 3: Interface gráfica
 Profundizaremos en las posibilidades que ofrece App Inventor: veremos como usar lienzos para pintar gráficos o como hacer sencillos videojuegos o cuentos interactivo.
 
-### Módulo 4: Interacción con el disponisitivo
+### Módulo 4: Interacción con el dispositivo
 En el último módulo teórico se verán aspectos más avanzados: acceder a ficheros, Web, mapas...
 
 ### Módulo 5: Proyecto 
