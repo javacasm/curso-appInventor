@@ -4,7 +4,7 @@
 
 ## Introdución
 
-En este curso veremos cómo desarrollar aplicaciones para tablets o móviles Android, usando la herramienta App Inventor del MIT. 
+En este curso veremos cómo desarrollar aplicaciones para tablets o móviles Android, usando la herramienta App Inventor del MIT.
 
 Se trata de un curso eminentemente práctico, con el objetivo de aprender a desarrollar aplicaciones y mini juegos.
 
@@ -23,7 +23,7 @@ Dada la naturaleza del entorno de desarrollo eminentemente visual, no son necesa
 
 El curso se compone de cinco módulos:
 
-### Módulo 1: Fundamentos 
+### Módulo 1: Fundamentos
 Nos familiarizaremos con la plataforma Android y la herramienta App Inventor. Instalaramos todo el entorno necesario.
 
 ### Módulo 2: Introducción a la programación y a Android
@@ -35,7 +35,7 @@ Profundizaremos en las posibilidades que ofrece App Inventor: veremos como usar 
 ### Módulo 4: Interacción con el dispositivo
 En el último módulo teórico se verán aspectos más avanzados: acceder a ficheros, Web, mapas...
 
-### Módulo 5: Proyecto 
+### Módulo 5: Proyecto
 Desarrollo de una mini-aplicación por parte del usuario.
 
 
@@ -53,3 +53,7 @@ El alumno ha de disponer de un ordenador ... (YA ESTÁ EN LA PROPUESTA INICIAL)
 
 * Suficientes tomas de alimentación para los alumnos
 * Conexión a Internet
+
+## Referencias
+
+[Tutoriales de Programo Ergo Sum](http://www.programoergosum.com/cursos-online/appinventor)
